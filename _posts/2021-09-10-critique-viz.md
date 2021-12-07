@@ -9,7 +9,7 @@ tags: [visual, charts]
 comments: true
 ---
 
-![Visual](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/A1Covid19.png)
+![Visual](https://raw.githubusercontent.com/gauravshekhar2003/dataviz/master/assets/img/A1Covid19.png)
 
 Source: [John Hopkins University](https://coronavirus.jhu.edu/data/state-timeline/new-confirmed-cases/texas/1)
 
