@@ -4,6 +4,7 @@ title: Generative Art
 subtitle: Sheer Elegance
 gh-repo: gauravshekhar2003/dataviz
 gh-badge: [star, fork, follow]
+share-img: /assets/img/genart.png
 tags: [art]
 comments: true
 ---
