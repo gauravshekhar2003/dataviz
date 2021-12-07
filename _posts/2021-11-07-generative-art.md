@@ -1,14 +1,26 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Generative Art
+subtitle: Sheer Elegance
+gh-repo: gauravshekhar2003/dataviz
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [art]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Over the last 50 years, our world has turned digital at breakneck speed. No art form has captured this transitional time period - our time period - better than generative art. Generative art takes full advantage of everything that computing has to offer, producing elegant and compelling artworks that extend the same principles and goals artists have pursued from the inception of modern art.
+
+Geometry, abstraction, and chance are important themes not just for generative art, but for all art of 20th Century. As an art historian and an amateur generative artist, I see a clear line of influence on generative art starting from Cézanne and shooting straight through to the:
+
+Fracturing of geometry in Analytical Cubism
+
+Emphasis on technology, machine aesthetic, and mechanized production from Futurism, Constructivism, and the Bauhaus
+
+Introduction of autonomy and chance in Dada, Surrealism, Abstract Expressionism
+
+Anti-figurative aesthetic, bold geometry, and intense color of Neoplasticism, Suprematism, Hard-edged Abstraction, and OpArt
+
+Use of algorithms by Sol Lewitt and others
 
 **Here is some bold text**
 
