@@ -61,6 +61,8 @@ Copyright: Qualtrics
 
 ### Makeup of the students
 
+852 students took this survey, which contained 668 attributes. Each student was given the survey in the last 90 days of their program. Depending on the program, a student was asked anywhere between 80-100 questions. Below is the makeup of our respondents.
+
 ![students](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/makeupstudents.PNG?raw=true)
 
 ### Sense of belonging
@@ -68,4 +70,58 @@ Copyright: Qualtrics
 It is important for us to know how our students feel when they graduate from the school. This particularly has a major role in their ability to come back to the school to contribute. This affects future relationships and hence is stressed up a lot. We do see that 36.18% of the students had a **Moderate Sense of Belonging**, whereas 26.81% had a **Strong Sense of Belonging**
 
 ![belonging](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/belonging.PNG?raw=true) 
+
+### Overall Experience in JSOM
+
+This is an important number for us as we gauge the academic and the overall satisfaction of the students. Each degree program is given a score out of 10 based on the students perception of the services provided
+
+![overall](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/jsomexperience.PNG?raw=true)
+
+### Salary Changes
+
+When students come into the program, they indicate their salaries. A program's success is gauuged by the salary the students' earn post graduation. Below is a snapshot of the Top 5 programs. the listed salary is in thousands. 
+
+![Salary](![image](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/salarydiff.PNG?raw=true)
+
+### How has the school helped you?
+
+This question helps us find the promotors in the best way as it gives us a clear insight into how students feel about the school. Here are the categories:
+The range is from 'Not Differentiated' to 'Clearly Differentiated'
+
+![Diff](![image](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/diff.PNG?raw=true)
+
+### But wait!
+
+We have been witnessing that the students that are detractors are mostly the ones who are struggling across the board and complain across the board. We wanted to see if their average GPA is correlated to their satisfaction score. Post running a trendline analysis, the R-squared was a tiny number and the p-value was large enough to tell us that their was no significance found here
+
+![Corr](![image](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/corr.PNG?raw=true)
+
+Hence finally we tried to split our analysis into the 3 buckets that students are most familiar with:
+
+- Advising
+- Career Management Center
+- Labs
+
+Below is what we found out about these 3 very important services
+
+![Satis](![image](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/satis.PNG?raw=true)
+
+### NPS for the School
+
+As we would have imagined, the median NPS for the school was about 55, with the high of a 72. With students graduating in large numbers, this has been a trend over several semesters. The smaller programs deginitely had a larger NPS. Here is how the school looked like:
+
+![nps](![image](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/npsjsom.PNG?raw=true)
+
+### Wrapping up
+
+The more data we can collect and analyze alongside our NPS score, the more we’ll be able to understand what’s driving our student experience, allowing you to prioritize our improvements to have the biggest impact on our students.
+
+Overall Factors that affect student satisfaction
+
+- Support from individual departments
+- Financial Support
+- Support for placements
+
+![nps](![image](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/jsomfinal.PNG?raw=true)
+
 
