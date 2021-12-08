@@ -94,7 +94,7 @@ The range is from 'Not Differentiated' to 'Clearly Differentiated'
 
 We have been witnessing that the students that are detractors are mostly the ones who are struggling across the board and complain across the board. We wanted to see if their average GPA is correlated to their satisfaction score. Post running a trendline analysis, the R-squared was a tiny number and the p-value was large enough to tell us that their was no significance found here
 
-![Corr](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/corr.PNG?raw=true)
+![Corr](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/corr.png?raw=true)
 
 Hence finally we tried to split our analysis into the 3 buckets that students are most familiar with:
 
