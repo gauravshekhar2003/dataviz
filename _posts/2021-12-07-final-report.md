@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EPPS 6356 Final Project- Fall 21
+title: EPPS 6356 Final Project
 subtitle: Jindal School of Management, Exit Survey 2021
 cover-img: /assets/img/jsom.PNG
 gh-repo: gauravshekhar2003/dataviz
@@ -25,3 +25,5 @@ The Jindal School of Management keeps abreast of corporate and industry needs as
 
 ![JSOM](https://raw.githubusercontent.com/gauravshekhar2003/dataviz/master/assets/img/jsom-hallway.jpg)
 
+
+![JSOMFast](https://github.com/gauravshekhar2003/dataviz/blob/master/assets/img/jsomfast.PNG?raw=true)
